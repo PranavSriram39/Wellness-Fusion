@@ -1,4 +1,4 @@
-~# Wellness Fusion
+# Wellness Fusion
 
 **Wellness Fusion** is a holistic web application that blends mental peace and physical strength for complete wellness. It combines an AI-powered mental health chatbot with a tailored yoga asana section to support users' mental and physical well-being.
 
