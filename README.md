@@ -60,4 +60,5 @@ Together, these features aim to create a seamless wellness experience addressing
 
 ---
 
-LIVE LINK : [https://wellnessfusionn.vercel.app/](https://wellness-fusionn.vercel.app/)
+LIVE LINK : [https://wellnessfusionn.vercel.app/](https://wellness-fusion.vercel.app/)
+
